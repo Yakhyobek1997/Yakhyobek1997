@@ -5,8 +5,9 @@ Data Science and Web Developer
 ------------------------------
 
 *   🌍  I'm based in Seoul
-*   ✉️  You can contact me at [yahyobek97@daum.net](mailto:yahyobek97@daum.net)<a href="https://www.github.com/Yakhyobek1997" target="_blank" rel="noreferrer"><img
- src="https://img.shields.io/github/followers/Yakhyobek1997?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>### Skills 
+*   ✉️  You can contact me at [yahyobek97@daum.net](mailto:yahyobek97@daum.net)
+<a href="https://www.github.com/Yakhyobek1997" target="_blank" rel="noreferrer">
+ <img src="https://img.shields.io/github/followers/Yakhyobek1997?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>### Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
