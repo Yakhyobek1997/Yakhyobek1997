@@ -4,8 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Science and Web Developer
 ------------------------------
 
-* 🌍  I'm based in Geoje
-* ✉️  You can contact me at [yahyobek97@daum.net](mailto:yahyobek97@daum.net)
+* 🌍  South Korea
+* ✉️  contact: [yahyobek97@daum.net](mailto:yahyobek97@daum.net)
 
 <a href="https://www.github.com/Yakhyobek1997" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Yakhyobek1997?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
