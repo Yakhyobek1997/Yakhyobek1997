@@ -50,14 +50,6 @@
   <img src="https://img.shields.io/badge/-GraphQL-black?style=flat-square&logo=graphql" />
 </p>
 
-#### 📱 Mobile
-<p>
-  <img src="https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter" />
-  <img src="https://img.shields.io/badge/-Android-black?style=flat-square&logo=android" />
-  <img src="https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=kotlin" />
-  <img src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=java" />
-</p>
-
 #### 🧠 AI / Data
 <p>
   <img src="https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=tensorflow" />
