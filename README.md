@@ -6,6 +6,19 @@
 
 ---
 
+### 🚀 GitHub Stats
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Yakhyobek1997?cardType=github&theme=tokyonight&preferLogin=false" alt="Yahyo Sobirjonov's GitHub Stats" width="100%"/>
+    </td>
+  </tr>
+</table>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yakhyobek1997&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true)
+
+---
+
 ### 🛠 Tech Stack
 
 #### 💻 Languages
@@ -36,6 +49,8 @@
   <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql" />
   <img src="https://img.shields.io/badge/-GraphQL-black?style=flat-square&logo=graphql" />
 </p>
+
+
 
 #### 🧠 AI / Data
 <p>
@@ -75,3 +90,4 @@
 
 ### 🔢 Visitors
 [![](https://visitcount.itsvg.in/api?id=Yakhyobek1997&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
+
