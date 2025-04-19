@@ -1,4 +1,4 @@
-### 👋 Assalomu alaykum, I’m Yahyo Sobirjonov — AI Engineer in 🇰🇷
+### 👋 Assalomu alaykum, I’m Yahyo Sobirjonov - AI & Software Engineer in 🇰🇷
 
 - 🔭 Hozirda AI & Web Development sohalarida faolman
 - 🌱 Sun'iy intellekt, Deep Learning, Web va Mobil texnologiyalar bilan ishlayman
