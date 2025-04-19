@@ -12,12 +12,6 @@
 - 🧭 Explorer mindset: "Struggle in silence while everyone else quits"
 
 ---
-
-### 🚀 GitHub Insights
-<p align="center">
-  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Yakhyobek1997?cardType=github&theme=tokyonight&preferLogin=false" alt="GitHub Stats" width="60%" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yakhyobek1997&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </p>
