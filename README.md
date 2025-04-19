@@ -1,8 +1,7 @@
 ### 👋 Assalomu alaykum, I’m Yahyo Sobirjonov - AI & Software Engineer in 🇰🇷
 
-- 🔭 Hozirda AI & Web Development sohalarida faolman
-- 🌱 Sun'iy intellekt, Deep Learning, Web va Mobil texnologiyalar bilan ishlayman
-- 🤖 "Forever Explorer" — har doim o‘rganishga ochiqman
+- 🔭 Hozirda AI & Software Engineer sohalarida faolman
+- 🌱 Sun'iy intellekt, Deep Learning, Web texnologiyalar bilan ishlayman
 
 ---
 
