@@ -1,4 +1,4 @@
-### 👋 Assalamu alaykum, I’m Yahyo Sobirjonov — AI & Software Engineer in 🇰🇷
+### 👋 Assalamu alaykum, I’m Yahyo Sobirjonov - AI & Software Engineer in 🇰🇷
 
 🚀 Passionate about solving real problems with AI & Web, turning ideas into intelligent systems, and building scalable products with precision.
 
