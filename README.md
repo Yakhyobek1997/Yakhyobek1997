@@ -1,11 +1,26 @@
-### 👋 Assalomu alaykum, I’m Yahyo Sobirjonov - AI & Software Engineer in 🇰🇷
+### 👋 Assalomu alaykum, I’m Yahyo Sobirjonov — AI Engineer in 🇰🇷
 
-- 🔭 Hozirda AI & Software Engineer sohalarida faolman
-- 🌱 Sun'iy intellekt, Deep Learning, Web texnologiyalar bilan ishlayman
+🚀 Passionate about solving real-world problems with Artificial Intelligence, turning ideas into intelligent systems, and building scalable products with precision.
 
 ---
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yakhyobek1997&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true)
+### 🧠 Who I Am
+
+- 👨‍💻 AI & Full Stack Engineer with a focus on impactful, production-ready tools
+- 🔬 Strong background in Deep Learning, Computer Vision, and Language Modeling
+- 🌍 Bridging tech between Korea and Central Asia
+- 🧭 Explorer mindset: "Struggle in silence while everyone else quits"
+
+---
+
+### 🚀 GitHub Insights
+<p align="center">
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Yakhyobek1997?cardType=github&theme=tokyonight&preferLogin=false" alt="GitHub Stats" width="60%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yakhyobek1997&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</p>
 
 ---
 
@@ -40,8 +55,6 @@
   <img src="https://img.shields.io/badge/-GraphQL-black?style=flat-square&logo=graphql" />
 </p>
 
-
-
 #### 🧠 AI / Data
 <p>
   <img src="https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=tensorflow" />
@@ -61,12 +74,12 @@
 
 ---
 
-### 💬 Quote
+### 💬 Favorite Quote
 <p align="center">
   <img align="center" width="5%" src="https://dev-to-uploads.s3.amazonaws.com/i/6mlc1xjw8c5i762zgq0i.gif" alt="Forever Explorer"/>
 </p>
 <p align="center">
-  It’s not talent that sets you apart - it’s how long you’re willing to struggle in silence while everyone else quits.
+  <code>"It’s not talent that sets you apart — it’s how long you’re willing to struggle in silence while everyone else quits."</code>
 </p>
 
 ---
@@ -80,3 +93,5 @@
 
 ---
 
+### 🔢 Visitors
+[![](https://visitcount.itsvg.in/api?id=Yakhyobek1997&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
