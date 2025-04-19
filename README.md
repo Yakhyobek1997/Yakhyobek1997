@@ -57,6 +57,8 @@
   <img src="https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=tensorflow" />
   <img src="https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=pytorch" />
   <img src="https://img.shields.io/badge/-OpenCV-black?style=flat-square&logo=opencv" />
+  <img src="https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas" />
+  <img src="https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=numpy" />
 </p>
 
 #### 🧰 Tools
@@ -74,7 +76,7 @@
   <img align="center" width="5%" src="https://dev-to-uploads.s3.amazonaws.com/i/6mlc1xjw8c5i762zgq0i.gif" alt="Forever Explorer"/>
 </p>
 <p align="center">
-  <code>console.log('Forever Explorer');</code>
+  It’s not talent that sets you apart - it’s how long you’re willing to struggle in silence while everyone else quits.
 </p>
 
 ---
