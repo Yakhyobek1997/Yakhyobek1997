@@ -19,24 +19,58 @@
 
 ---
 
-### 🧰 Languages and Tools
-<p align="left">
-  <img src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" alt="HTML" width="30"/>
-  <img src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" alt="CSS" width="30"/>
-  <img src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" alt="JavaScript" width="30"/>
-  <img src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" alt="Python" width="30"/>
-  <img src="https://raw.githubusercontent.com/github/explore/master/topics/flutter/flutter.png" alt="Flutter" width="30"/>
-  <img src="https://raw.githubusercontent.com/github/explore/master/topics/dart/dart.png" alt="Dart" width="30"/>
-  <img src="https://raw.githubusercontent.com/github/explore/master/topics/firebase/firebase.png" alt="Firebase" width="30"/>
-  <img src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png" alt="SQL" width="30"/>
-  <img src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png" alt="MySQL" width="30"/>
-  <img src="https://raw.githubusercontent.com/github/explore/master/topics/android/android.png" alt="Android" width="30"/>
-  <img src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" alt="Java" width="30"/>
-  <img src="https://raw.githubusercontent.com/github/explore/master/topics/kotlin/kotlin.png" alt="Kotlin" width="30"/>
-  <img src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png" alt="Linux" width="30"/>
-  <img src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" alt="Git" width="30"/>
-  <img src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" alt="GitHub" width="30"/>
-  <img src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" width="30"/>
+### 🛠 Tech Stack
+
+#### 💻 Languages
+<p>
+  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" />
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
+  <img src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript" />
+  <img src="https://img.shields.io/badge/-Dart-black?style=flat-square&logo=dart" />
+  <img src="https://img.shields.io/badge/-SQL-black?style=flat-square&logo=mysql" />
+</p>
+
+#### 🧩 Frontend
+<p>
+  <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5" />
+  <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3" />
+  <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" />
+  <img src="https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js" />
+  <img src="https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css" />
+  <img src="https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap" />
+</p>
+
+#### 🛠 Backend
+<p>
+  <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js" />
+  <img src="https://img.shields.io/badge/-Express-black?style=flat-square&logo=express" />
+  <img src="https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase" />
+  <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" />
+  <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql" />
+  <img src="https://img.shields.io/badge/-GraphQL-black?style=flat-square&logo=graphql" />
+</p>
+
+#### 📱 Mobile
+<p>
+  <img src="https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter" />
+  <img src="https://img.shields.io/badge/-Android-black?style=flat-square&logo=android" />
+  <img src="https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=kotlin" />
+  <img src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=java" />
+</p>
+
+#### 🧠 AI / Data
+<p>
+  <img src="https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=tensorflow" />
+  <img src="https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=pytorch" />
+  <img src="https://img.shields.io/badge/-OpenCV-black?style=flat-square&logo=opencv" />
+</p>
+
+#### 🧰 Tools
+<p>
+  <img src="https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code" />
+  <img src="https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux" />
+  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
+  <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" />
 </p>
 
 ---
@@ -62,4 +96,3 @@
 
 ### 🔢 Visitors
 [![](https://visitcount.itsvg.in/api?id=Yakhyobek1997&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
-
