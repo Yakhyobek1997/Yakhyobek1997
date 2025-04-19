@@ -1,6 +1,6 @@
-### 👋 Assalomu alaykum, I’m Yahyo Sobirjonov — AI Engineer in 🇰🇷
+### 👋 Assalamu alaykum, I’m Yahyo Sobirjonov — AI & Software Engineer in 🇰🇷
 
-🚀 Passionate about solving real-world problems with Artificial Intelligence, turning ideas into intelligent systems, and building scalable products with precision.
+🚀 Passionate about solving real problems with AI & Web, turning ideas into intelligent systems, and building scalable products with precision.
 
 ---
 
@@ -92,6 +92,3 @@
 - ☎️ Tel: +82 10 2153 2309
 
 ---
-
-### 🔢 Visitors
-[![](https://visitcount.itsvg.in/api?id=Yakhyobek1997&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
