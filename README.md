@@ -9,7 +9,6 @@
 - 👨‍💻 AI & Full Stack Engineer with a focus on impactful, production-ready tools
 - 🔬 Strong background in Deep Learning, Computer Vision, and Language Modeling
 - 🌍 Bridging tech between Korea and Central Asia
-- 🧭 Explorer mindset: "Struggle in silence while everyone else quits"
 
 ---
 <p align="center">
