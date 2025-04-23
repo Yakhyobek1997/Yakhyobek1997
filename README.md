@@ -24,7 +24,6 @@
   <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" />
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
   <img src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript" />
-  <img src="https://img.shields.io/badge/-Dart-black?style=flat-square&logo=dart" />
   <img src="https://img.shields.io/badge/-SQL-black?style=flat-square&logo=mysql" />
 </p>
 
