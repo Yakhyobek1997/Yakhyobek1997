@@ -71,7 +71,7 @@
   <img align="center" width="5%" src="https://dev-to-uploads.s3.amazonaws.com/i/6mlc1xjw8c5i762zgq0i.gif" alt="Forever Explorer"/>
 </p>
 <p align="center">
-  <code>"It’s not talent that sets you apart — it’s how long you’re willing to struggle in silence while everyone else quits."</code>
+  <code>"It's not talent that sets you apart - it's how long you're willing to struggle in silence while everyone else quits."</code>
 </p>
 
 ---
