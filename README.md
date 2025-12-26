@@ -1,10 +1,8 @@
-### 👋 Assalamu alaykum, I’m Yahyo Sobirjonov - AI & Software Engineer in 🇰🇷
+### AI & Software Engineer in 🇰🇷
 
 🚀 Passionate about solving real problems with AI & Web, turning ideas into intelligent systems, and building scalable products with precision.
 
 ---
-
-### 🧠 Who I Am
 
 - 👨‍💻 AI & Full Stack Engineer with a focus on impactful, production-ready tools
 - 🔬 Strong background in Deep Learning, Computer Vision, and Language Modeling
@@ -58,16 +56,6 @@
   <img src="https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux" />
   <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
   <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" />
-</p>
-
----
-
-### 💬 Favorite Quote
-<p align="center">
-  <img align="center" width="5%" src="https://dev-to-uploads.s3.amazonaws.com/i/6mlc1xjw8c5i762zgq0i.gif" alt="Forever Explorer"/>
-</p>
-<p align="center">
-  <code>"It's not talent that sets you apart - it's how long you're willing to struggle in silence while everyone else quits."</code>
 </p>
 
 ---
