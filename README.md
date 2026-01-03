@@ -9,8 +9,6 @@
 - 🌍 Bridging tech between Korea and Central Asia
 
 ---
----
-
 ### 🛠 Tech Stack
 
 #### 💻 Languages
