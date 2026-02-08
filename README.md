@@ -37,6 +37,7 @@
   <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql" />
   <img src="https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql" />
   <img src="https://img.shields.io/badge/-GraphQL-black?style=flat-square&logo=graphql" />
+  <img src="https://img.shields.io/badge/-NestJS-black?style=flat-square&logo=nestjs" />
 </p>
 
 #### 🧠 AI / Data
