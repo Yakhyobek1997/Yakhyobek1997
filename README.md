@@ -30,22 +30,22 @@
 </p>
 
 #### 🛠 Backend
-<p>
-  <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js" />
-  <img src="https://img.shields.io/badge/-Express-black?style=flat-square&logo=express" />
+<p> <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js" />
+  <img src="https://img.shields.io/badge/-Express-black?style=flat-square&logo=express" /> 
   <img src="https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase" />
   <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" />
   <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql" />
   <img src="https://img.shields.io/badge/-GraphQL-black?style=flat-square&logo=graphql" />
 </p>
 
 #### 🧠 AI / Data
-<p>
-  <img src="https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=tensorflow" />
+<p> <img src="https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=tensorflow" />
   <img src="https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=pytorch" />
+  <img src="https://img.shields.io/badge/-YOLO-black?style=flat-square&logo=opencv" />
   <img src="https://img.shields.io/badge/-OpenCV-black?style=flat-square&logo=opencv" />
   <img src="https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas" />
-  <img src="https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=numpy" />
+  <img src="https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=numpy" /> 
 </p>
 
 #### 🧰 Tools
