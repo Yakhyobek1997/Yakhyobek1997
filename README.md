@@ -47,6 +47,10 @@
   <img src="https://img.shields.io/badge/-OpenCV-black?style=flat-square&logo=opencv" />
   <img src="https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas" />
   <img src="https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=numpy" /> 
+  <img src="https://img.shields.io/badge/-scikit--learn-black?style=flat-square&logo=scikitlearn" />
+  <img src="https://img.shields.io/badge/-HuggingFace-black?style=flat-square&logo=huggingface" />
+  <img src="https://img.shields.io/badge/-ONNX-black?style=flat-square&logo=onnx" />
+
 </p>
 
 #### 🧰 Tools
@@ -55,6 +59,13 @@
   <img src="https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux" />
   <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
   <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" />
+</p>
+
+#### ⚙️ DevOps / Infra
+<p>
+<img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker" />
+<img src="https://img.shields.io/badge/-Nginx-black?style=flat-square&logo=nginx" />
+<img src="https://img.shields.io/badge/-GitHub_Actions-black?style=flat-square&logo=githubactions" />
 </p>
 
 ---
